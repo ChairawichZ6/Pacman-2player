@@ -11,23 +11,6 @@ const obstacles = [
     { x: 50, y: 50, width: 20, height: 400, color: 'red' },
     { x: 50, y: 50, width: 400, height: 20, color: 'red' },
     { x: 50, y: 430, width: 400, height: 20, color: 'red' },
-    { x: 430, y: 50, width: 20, height: 400, color: 'red' },
-
-    // Inner walls
-    { x: 100, y: 100, width: 20, height: 200, color: 'red' },
-    { x: 100, y: 100, width: 200, height: 20, color: 'red' },
-    { x: 300, y: 100, width: 20, height: 200, color: 'red' },
-    { x: 100, y: 300, width: 220, height: 20, color: 'red' },
-    { x: 200, y: 200, width: 20, height: 100, color: 'red' },
-    { x: 200, y: 200, width: 100, height: 20, color: 'red' },
-
-    // Inner obstacles
-    { x: 160, y: 160, width: 20, height: 80, color: 'red' },
-    { x: 160, y: 240, width: 60, height: 20, color: 'red' },
-    { x: 260, y: 160, width: 20, height: 60, color: 'red' },
-    { x: 260, y: 260, width: 60, height: 20, color: 'red' },
-    { x: 200, y: 160, width: 20, height: 40, color: 'red' },
-    { x: 200, y: 200, width: 40, height: 20, color: 'red' },
 ];
 
     // Add more obstacles here
